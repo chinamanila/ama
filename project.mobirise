@@ -35,15 +35,15 @@
     "uniqCompNum": 11,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-cleaned.svg",
     "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "AMA Tower Residences  整栋大楼出售",
-        "meta_descr": "",
+        "title": "AMA Tower Residences",
+        "meta_descr": "整栋大楼出售",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
