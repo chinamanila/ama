@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "AMA Tower",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -34,13 +34,15 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 5,
     "versionPublish": "4.10.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "AMA Tower ",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
