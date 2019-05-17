@@ -35,7 +35,7 @@
     "uniqCompNum": 12,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/favicon-cleaned-1.svg",
+    "favicon": "@PROJECT_PATH@/assets/images/logotype-telegram-round-blue-logo-512-128x128.png",
     "noImageResize": ""
   },
   "pages": {
