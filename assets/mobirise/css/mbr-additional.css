@@ -1897,6 +1897,42 @@ body {
     width: 100% !important;
   }
 }
+.cid-rqOzNsrb2D {
+  padding-top: 90px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-rqOzNsrb2D .media-content {
+  word-wrap: break-word;
+}
+.cid-rqOzNsrb2D .form-group {
+  padding: 0.5rem;
+}
+.cid-rqOzNsrb2D .form-control {
+  text-align: center;
+}
+.cid-rqOzNsrb2D .mbr-figure {
+  padding-bottom: 2rem;
+}
+@media (min-width: 992px) {
+  .cid-rqOzNsrb2D .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rqOzNsrb2D .mbr-text {
+    text-align: center;
+  }
+  .cid-rqOzNsrb2D .form-inline {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+@media (max-width: 768px) {
+  .cid-rqOzNsrb2D .form-control {
+    font-size: .85rem;
+  }
+}
 .cid-rqJVdpOH6P .google-map {
   height: 25rem;
   position: relative;
